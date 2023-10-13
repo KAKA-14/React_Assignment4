@@ -1,0 +1,24 @@
+*{
+    background-color:#242424;
+    color: white;
+}
+table{
+    border:2px solid white;
+    padding:1rem;
+    margin:2rem;
+}
+td{
+    padding:1rem;
+}
+img{
+    width:30%;
+    padding: 0;
+    margin-left: 2rem;
+}
+td.img{
+    width:10%;
+    padding: 0;
+}
+thead th{
+    border-bottom: 1px solid white;
+}
